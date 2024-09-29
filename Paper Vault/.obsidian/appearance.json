@@ -1,0 +1,13 @@
+{
+  "interfaceFontFamily": "",
+  "textFontFamily": "SUIT",
+  "translucency": true,
+  "cssTheme": "Things",
+  "monospaceFontFamily": "Pretendard Variable",
+  "theme": "moonstone",
+  "accentColor": "",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "obsi"
+  ]
+}

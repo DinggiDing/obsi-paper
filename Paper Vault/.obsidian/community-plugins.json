@@ -3,5 +3,6 @@
   "templater-obsidian",
   "obsidian-style-settings",
   "make-md",
-  "obsidian-git"
+  "obsidian-git",
+  "editing-toolbar"
 ]

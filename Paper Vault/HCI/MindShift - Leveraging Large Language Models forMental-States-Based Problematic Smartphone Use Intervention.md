@@ -5,6 +5,7 @@ tags:
   - HCI
   - mHealth
   - EmpiricalStudies
+  - AIGC
 ---
 **핵심 요점**
 

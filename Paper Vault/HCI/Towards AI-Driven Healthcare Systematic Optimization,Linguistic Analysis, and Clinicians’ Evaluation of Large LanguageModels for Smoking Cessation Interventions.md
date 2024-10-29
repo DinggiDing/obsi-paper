@@ -5,6 +5,7 @@ tags:
   - HCI
   - EmpiricalStudies
   - mHealth
+  - AIGC
 ---
 - 금연 중재 메시지 생성을 위한 개인 맞춤형 메시지 개발 → Intervention 효율성 향상
     

@@ -5,6 +5,7 @@ tags:
   - HCI
   - EmpiricalStudies
   - HealthInformatics
+  - Personal-Informatics
 sticker: emoji//1f469-200d-1f3eb
 ---
 PHT(Personal Health Technology)

@@ -4,6 +4,7 @@
 tags:
   - HCI
   - Visualization
+  - Personal-Informatics
 sticker: emoji//1f3f7-fe0f
 ---
 - mobile data exploration
@@ -61,3 +62,5 @@ sticker: emoji//1f3f7-fe0f
 #### Evaluation Challenges
 - It is challenge to evaluate Databiting
 - Understanding the impact of databiting compared to glanceable and micro visualizations, and longer form data exploration would also be valuable.
+
+

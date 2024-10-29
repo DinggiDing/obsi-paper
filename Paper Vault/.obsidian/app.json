@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "spellcheck": false,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "attachmentFolderPath": "image"
 }

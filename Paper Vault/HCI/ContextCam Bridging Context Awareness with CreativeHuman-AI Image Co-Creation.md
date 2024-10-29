@@ -3,6 +3,8 @@
 진행상태: false
 tags:
   - HCI
+  - AIGC
+  - context-aware
 ---
 **AIGC : AI-generated content**
 

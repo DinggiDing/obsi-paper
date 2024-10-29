@@ -45,9 +45,17 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
+    "//for",
+    "//HCI/HCI/OmniTrack - A Flexible Self-Tracking Approach Leveraging Semi-Automated Tracking",
+    "//HCI/HCI/CHI24",
+    "//HCI/HCI/CHI20",
     "//HCI",
+    "//Others",
     "//VIS",
-    "//Word"
+    "//VIS/VIS/VIS23",
+    "//Word",
+    "//HCI/HCI/CHI18",
+    "//image"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

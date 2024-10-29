@@ -1,7 +1,9 @@
 ---
 시작일: 2024-09-21
 진행상태: false
-tags: [HCI]
+tags:
+  - HCI
+  - AIGC
 ---
 # Introduction
 

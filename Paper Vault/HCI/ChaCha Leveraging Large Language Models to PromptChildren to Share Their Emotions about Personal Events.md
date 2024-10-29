@@ -4,6 +4,7 @@
 tags:
   - HCI
   - EmpiricalStudies
+  - AIGC
 ---
 # 1. Introduction
 

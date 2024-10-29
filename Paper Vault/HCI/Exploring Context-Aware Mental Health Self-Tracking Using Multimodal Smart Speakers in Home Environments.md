@@ -6,6 +6,7 @@ tags:
   - mHealth
   - EmpiricalStudies
   - Self-Tracking
+  - context-aware
 ---
 - 집에서 Context-aware를 통해 자연스러운 건강 모니터링을 경험하게 되어 자기 건강 상태에 대한 자가 인식이 향상될 수 있음(with 다중 모달 스마트 스피커)
     

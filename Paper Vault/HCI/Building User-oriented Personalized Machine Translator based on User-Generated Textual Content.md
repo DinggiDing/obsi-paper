@@ -4,6 +4,8 @@
 tags:
   - HCI
   - CollaborativeSocial
+  - Personalization
+  - AIGC
 ---
 번역 시스템이 사용자의 개인적인 언어 스타일에 더 잘 맞춰져 다국어 커뮤니케이션 도구의 광범위한 채택과 만족도를 높이는 결과를 기대할 수 있습니다. Using UGTC(User-Generated Textual Content)
 

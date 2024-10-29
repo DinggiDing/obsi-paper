@@ -3,6 +3,7 @@
 진행상태: false
 tags:
   - HCI
+  - AIGC
 ---
 # Introduction
 

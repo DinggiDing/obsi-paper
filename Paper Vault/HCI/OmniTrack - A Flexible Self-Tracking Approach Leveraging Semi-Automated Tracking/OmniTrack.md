@@ -3,8 +3,10 @@
 진행상태: false
 tags:
   - HCI
+  - Self-Tracking
 sticker: lucide//settings-2
 ---
+[[OmniTrack - A Flexible Self-Tracking Approach Leveraging Semi-Automated Tracking]]
 
 **핵심 요점**
 1. OmniTrack은 수동 입력과 자동 데이터를 결합하여 유연한 셀프 트래킹 플랫폼을 제공함.
@@ -82,3 +84,8 @@ sticker: lucide//settings-2
 ### 데이터 유형
 - Omni : 수동 데이터 & 외부 데이터(Fitbit)
 - Mind : 스마트폰 센서 데이터(GPS, ...), 감정 평가, 인지 테스트(survey)
+
+
+
+C.F
+[[Semi-Automated Tracking - A Balanced Approach for Self-Monitoring Applications]]

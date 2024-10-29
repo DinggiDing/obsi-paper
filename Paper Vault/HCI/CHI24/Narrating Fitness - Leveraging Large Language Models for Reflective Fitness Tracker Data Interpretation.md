@@ -1,10 +1,11 @@
 ---
-시작일: 2024-09-24
+시작일: 2024-10-15
 진행상태: false
 tags:
   - HCI
   - EmpiricalStudies
-sticker: lucide//settings-2
+  - AIGC
+sticker: emoji//1f3f7-fe0f
 ---
 **핵심 결론**
 - LLM이 생성한 질적 피드백은 기존의 차트만 제공된 경우보다 더 많은 성찰과 집중을 유도합니다.
@@ -57,3 +58,9 @@ sticker: lucide//settings-2
 # 6 Online study results
 ---
 - Text-only > Text + chart > chart
+- TSRI-Comparion에서는 유의하지만, 다른 지표는 비슷했음
+- USE-SF에서 텍스트 피드백이 Focused Attention, Reward에서 유의미함.
+
+# **Q**
+1. This study forces only one data, Step Data →  <font color="#d83931"><u>Limitation</u></font>
+2. This study using open-ended question, is based on users' subjective assessment so that it can has a low reliability of result

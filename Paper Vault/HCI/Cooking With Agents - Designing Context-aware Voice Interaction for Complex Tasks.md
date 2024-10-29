@@ -4,6 +4,7 @@
 tags:
   - HCI
   - EmpiricalStudies
+  - context-aware
 sticker: lucide//settings-2
 ---
 - **적용 분야**: 이 연구는 복잡한 다단계 작업 중 사용자 지원을 위해 대화형 에이전트(CA)에 상황 인식 기능을 통합하여 음성 에이전트를 개선할 수 있는 통찰력을 제공합니다.

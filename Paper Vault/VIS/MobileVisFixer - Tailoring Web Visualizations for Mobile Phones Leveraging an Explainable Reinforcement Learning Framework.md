@@ -24,3 +24,10 @@ sticker: emoji//1f469-200d-1f3eb
 # 3 Mobile-Friendly Issues in Web Visualizations
 ---
 - We note that we focus on layout-related readability issues of SVG-based visualization and do not consider interaction problems
+#### 1 Mobile-friendly issues
+1. Out of the viewport
+2. Unreadable font size
+3. Cluttered text
+4. Distorted layout
+5. Unwanted white space
+- We found that 142 (37.9%) visualizations exhibited no changes between desktop and mobile designs, while only 98 (26.2%) visualizations exhibited none of the above five issue

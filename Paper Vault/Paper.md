@@ -8,6 +8,6 @@ table Without ID
 	choice(진행상태=false, "X", "O") as "Status",
 	tags as "tags"
 from "HCI" or "VIS"
-sort file.name asc
+sort file.ctime desc
 ```
 

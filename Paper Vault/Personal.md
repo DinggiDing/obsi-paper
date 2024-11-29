@@ -115,9 +115,12 @@ Research Question
 - Health Domain + Mobile에서 Interactive Visualization에서 interaction(zoom, 등)이 가능할 때, 사람들은 어떻게 데이터 탐색을 위해 사용하고 있는지와 데이터를 잘 이해하는지
 	- 더욱 깊은 데이터탐색을 위해 어떻게 해야 Interaction을 사용할 수 있는지
 	- 어떤 Interaction을 통해 data literacy를 높일 수 있는지
-- 시각화 차트에서 숨겨진 인터랙션은 어떻게 확인할 수 있는지
+	- 시각화 차트에서 숨겨진 인터랙션을 확인할 수 있는지
+- 모바일 Visualization을 고려할 때 많은 것들이 있음. 
+	- Scale, Aspect ratio, Layout, Level of Detail, Amount of Data, Annotation & Guides, Attentional Cues / Dynamic Guides, Animation & Streaming Data, **Visual Encoding, Interaction.**
+- AI? 버튼 크기 AI
 
-- 기기간 어떻게 Visual Encoding 해야하는지
+
 - ### Visual Encoding
 	- mobile-first design approach may lead designers to more responsive designs relative to a desktop-first approach
 	- consistent primary mapping + secondary mapping that varies depending on device. ( by Radloff )
@@ -126,4 +129,25 @@ Research Question
 	- morph from a line plot to a horizon chart when the height of the graph falls below a certain threshold
 	- focus + context : matrix visualization →  scaled up to embedded chart
 	- Table (not a chart)
-	- 
+
+연구 질문  
+"모바일 기기에서의 상호작용형 시각화 기술이 사용자의 데이터 탐색 행동과 건강 데이터 이해에 어떤 영향을 미치며, 데이터 literacy 향상과 더 깊은 데이터를 탐색시키기 위한 상호작용 설계는 무엇인가?"
+1.  숨겨진 상호작용
+    - 숨겨진 상호작용 기능을 사용자가 어떻게 발견하는지
+2. 사용자 상호작용 패턴
+    - 사용자가 모바일 기기에서 건강 데이터를 탐색할 때 시각화와 어떻게 상호작용하는지(예: 줌, 팬 등) 분석.
+	    - zoom&pan, Focus+context, Overview+detail, semantic zooming
+1. 데이터 이해
+    - 이러한 상호작용이 데이터를 더 잘 이해하도록 돕는지 평가.
+2. 설계 전략
+    - 데이터 문해력을 향상시키는 데 효과적인 상호작용 설계 및 프로토타입(예: 의미적 줌, 차트 변환 등) 확인.
+
+---
+~~연구 질문(more narrowly)
+"모바일 건강 시각화에서 데이터 literacy 향상시키는 효과적인 시각적 인코딩 및 상호작용 기술은 무엇이며, 숨겨진 상호작용을 사용자가 쉽게 발견할 수 있도록 하는 방법은 무엇인가?"
+1. ~~시각적 인코딩 기술
+    - 모바일 화면에서 데이터를 효과적으로 표현하는 방법.
+2. 상호작용 기술
+    - 의미적 줌, 초점+맥락(focus+context)과 같은 기술이 깊이 있는 데이터 탐색에 어떻게 기여하는지.
+3. 상호작용의 발견 가능성
+    - 사용자가 사용할 수 있는 상호작용 기능을 인식하도록 만드는 전략.~~~~

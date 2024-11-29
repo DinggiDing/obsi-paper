@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae80556e698cf58d",
+        "id": "c1ff1eb968bab4a3",
         "type": "tabs",
         "children": [
           {
-            "id": "e367549e591c267e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "for/NRF/Understanding User Perspective on Data Visualization in mHealth Apps - A Survey Study.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Understanding User Perspective on Data Visualization in mHealth Apps - A Survey Study"
-            }
-          },
-          {
-            "id": "b45839860f6519a2",
+            "id": "978928e43a247802",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,17 +22,17 @@
             }
           },
           {
-            "id": "8f0279b923877a7a",
+            "id": "b000442e72d00932",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "for/Responsive Visualization Design for Mobile Devices.md",
+                "file": "HCI/Health Data Visualization Literacy Skills of Young Adults with Down Syndrome and the Barriers to Inference-making.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Responsive Visualization Design for Mobile Devices"
+              "title": "Health Data Visualization Literacy Skills of Young Adults with Down Syndrome and the Barriers to Inference-making"
             }
           }
         ]
@@ -80,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Responsive-Visualization",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +88,7 @@
             }
           },
           {
-            "id": "c04774a19bccd55c",
+            "id": "92aeea4e208321b5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -116,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 200
   },
   "right": {
     "id": "e8fbfd16bab83ecb",
@@ -217,35 +203,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e367549e591c267e",
+  "active": "978928e43a247802",
   "lastOpenFiles": [
-    "for/NRF/Understanding User Perspective on Data Visualization in mHealth Apps - A Survey Study.md",
-    "for/Responsive Visualization Design for Mobile Devices.md",
-    "Personal.md",
-    "for/Understanding the Interactions between Text and Visualizations.md",
-    "MOB VIS.md",
-    "Mobile Application Tutorial.md",
-    "for/NRF/A Smart Mobile App to Simplify Medical Documents and Improve Health Literacy - System Design and Feasibility Validation.md",
-    "for/NRF/NRF.md",
-    "for/NRF",
-    "HCI/Building a Personalized Model for Social Media Textual Content Censorship.md",
-    "HCI/Actionable UI Design Guidelines for Smartphone Applications Inclusive of Low-Literate Users.md",
-    "VIS/Visualizing Information on Watch Faces - A Survey with Smartwatch Users.md",
-    "HCI/Understanding Self-Reflection - How people reflect on Personal Data Through Visual Data Exploration.md",
-    "VIS/VIS24/Dupo - A Mixed-Initiative Authoring Tool for Responsive Visualization.md",
-    "HCI/CHI22/Cicero - A Declarative Grammar for Responsive Visualization.md",
-    "HCI/CHI22/Preferences and Effectiveness of Sleep Data Visualizations for Smartwatches and Fitness Bands.md",
-    "HCI/CHI24/MigraineTracker - Examinig Patient Experiences with Goal-Directed Self-Tracking for a Chronic Health Condition.md",
-    "HCI/CHI24/Narrating Fitness - Leveraging Large Language Models for Reflective Fitness Tracker Data Interpretation.md",
-    "HCI/ContextCam Bridging Context Awareness with CreativeHuman-AI Image Co-Creation.md",
-    "HCI/Cooking With Agents - Designing Context-aware Voice Interaction for Complex Tasks.md",
-    "HCI/Data@Hand - Fostering Visual Exploration of Personal Data on Smartphones Leveraging Speech and Touch Interaction.md",
-    "HCI/Exploring Context-Aware Mental Health Self-Tracking Using Multimodal Smart Speakers in Home Environments.md",
-    "HCI/FoodScrap - Promoting Rich Data Capture and Reflective Food Journaling Through Speech Input.md",
-    "HCI/HCI Contributions in Mental Health A Modular Framework toGuide Psychosocial Intervention Design.md",
+    "for/NRF/Skimming.md",
+    "HCI/Health Data Visualization Literacy Skills of Young Adults with Down Syndrome and the Barriers to Inference-making.md",
     "HCI/Identify, Adapt, Persist The Journey of Blind Individuals with Personal Health Technologies.md",
-    "HCI/Keep Eyes on the Sentence An Interactive Sentence Simplification System for English Learners Based on Eye Tracking and Large Language Models.md",
-    "HCI/MAIDR - Making Statistical Visualizations Accessible with Multimodal Data Representation.md",
+    "VIS/When Refreshable Tactile Displays Meet Conversational Agents - Investigating Accessible Data Presentation and Analysis with Touch and Speech.md",
+    "VIS/Visualizing Ranges over Time on Mobile Phones- A Task-Based Crowdsourced Evaluation.md",
+    "Personal.md",
+    "for/Responsive Visualization Design for Mobile Devices.md",
+    "MOB VIS.md",
+    "HCI/CHI20/Answering Questions about Charts and Generating Visual Explanations.md",
+    "HCI/ChaCha Leveraging Large Language Models to PromptChildren to Share Their Emotions about Personal Events.md",
+    "HCI/Building User-oriented Personalized Machine Translator based on User-Generated Textual Content.md",
+    "HCI/Building a Personalized Model for Social Media Textual Content Censorship.md",
+    "for/NRF/Understanding User Perspective on Data Visualization in mHealth Apps - A Survey Study.md",
+    "VIS/Interactive Visualization Literacy - The state-of-the-art.md",
+    "VIS/Visualizing Information on Watch Faces - A Survey with Smartwatch Users.md",
+    "for/NRF/A Smart Mobile App to Simplify Medical Documents and Improve Health Literacy - System Design and Feasibility Validation.md",
+    "for/Interacting with Visualization on Mobile Devices.md",
+    "HCI/CHI24/Narrating Fitness - Leveraging Large Language Models for Reflective Fitness Tracker Data Interpretation.md",
+    "HCI/Towards AI-Driven Healthcare Systematic Optimization,Linguistic Analysis, and Clinicians’ Evaluation of Large LanguageModels for Smoking Cessation Interventions.md",
+    "VIS/VIS15/Personal Visualization and Personal Visual Analytics.md",
+    "VIS/VIS23/Semi-Automatic Layout Adaptation for Responsive Multiple-View Visualization Design.md",
+    "VIS/VIS23/EmphasisChecker - A Tool for Guiding Chart and Caption Emphasis.md",
+    "VIS/MobileVisFixer - Tailoring Web Visualizations for Mobile Phones Leveraging an Explainable Reinforcement Learning Framework.md",
+    "VIS/Databiting - Lightweight Transient, and Insight Rich Exploration of Personal Data.md",
+    "VIS/Understanding Self-Reflection How People Reflect onPersonal Data Through Visual Data Exploration.md",
+    "VIS/Understanding Quantified-Selfers’ Practices in Collecting and Exploring Personal Data.md",
+    "무제 파일 1.canvas",
+    "for/NRF",
     "VIS/VIS15",
     "image/Cicero.png",
     "image/Dupo - A Mixed-Initiative Authoring Tool for Responsive Visualization.png",

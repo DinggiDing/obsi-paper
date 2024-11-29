@@ -62,6 +62,7 @@ sticker: emoji//1f4da
 - consistent primary mapping + secondary mapping that varies depending on device. ( by Radloff )
 <font color="#ff0000">- Q. Bremer, Camoes 는 어떻게 모바일 디스플레이에 최적화된 형태라고 생각했는가?</font>
 - Semantic Zooming
+	- https://gosling-lang.org/docs/semantic-zoom/
 - morph from a line plot to a horizon chart when the height of the graph falls below a certain threshold
 - focus + context : matrix visualization →  scaled up to embedded chart
 - Table (not a chart)

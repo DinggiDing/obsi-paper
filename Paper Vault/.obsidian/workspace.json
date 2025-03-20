@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIS/Show Me - Automatic Presentation for Visual Analysis.md",
+                "file": "MobileHealth/Data, Data Everywhere, and Still Too Hard to Link- Insights from User Interactions with Diabetes Apps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Show Me - Automatic Presentation for Visual Analysis"
+              "title": "Data, Data Everywhere, and Still Too Hard to Link- Insights from User Interactions with Diabetes Apps"
+            }
+          },
+          {
+            "id": "fb63b46a21c7b8e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HCI/Goal for Goal Setting- A Scoping Review on Personal Informatics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Goal for Goal Setting- A Scoping Review on Personal Informatics"
             }
           },
           {
@@ -27,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal 2.md",
+                "file": "VIS/Understanding Quantified-Selfers’ Practices in Collecting and Exploring Personal Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personal 2"
+              "title": "Understanding Quantified-Selfers’ Practices in Collecting and Exploring Personal Data"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "multi modal",
+                "query": "tag:#VisualizationDashboard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,17 +99,17 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "북마크"
             }
           },
           {
-            "id": "5b07e77be000553c",
+            "id": "321f6ee055bc9688",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
-              "title": "Spaces"
+              "title": "Navigator"
             }
           }
         ],
@@ -180,8 +195,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           }
         ]
@@ -193,44 +208,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "omnisearch:Omnisearch": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "978928e43a247802",
+  "active": "fb63b46a21c7b8e5",
   "lastOpenFiles": [
-    "VIS/Show Me - Automatic Presentation for Visual Analysis.md",
+    "HCI/Goal for Goal Setting- A Scoping Review on Personal Informatics.md",
+    "HCI/HCI.md",
+    "MobileHealth/Mapping and Taking Stock of the Personal Informatics Literature.md",
+    "MobileHealth/Analysis of Personal Data Visualization Reviews on mHealth Apps.md",
+    "Personal 3.md",
     "Personal 2.md",
-    "VIS/VIS23/Medley - Intent-based Recommendations to Support Dashboard Composition.md",
-    "Word/Think-Aloud.md",
-    "HCI/Health Data Visualization Literacy Skills of Young Adults with Down Syndrome and the Barriers to Inference-making.md",
-    "HCI/SleepTight.md",
+    "VIS/Understanding Self-Reflection How People Reflect onPersonal Data Through Visual Data Exploration.md",
+    "MobileHealth/Data, Data Everywhere, and Still Too Hard to Link- Insights from User Interactions with Diabetes Apps.md",
+    "MobileHealth/MobileHealth.md",
+    "MobileHealth/Information Visualization for Diabetes Management- A Literature Review.md",
+    "VIS/Vega-Lite A Grammar of Interactive Graphics.md",
+    "MobileHealth/Personal Data Visualisation on Mobile Devices- A Systemtatic Literature Review.md",
+    "MobileHealth/mHealthSwarm- A Unified Platform for mHealth Applications.md",
+    "MobileHealth/Towards Better mHealth Apps- Understanding Current Challenges and User Expectations.md",
+    "HCI/Digital Forms for All- A Holistic Multimodal Large Language Model Agent for Health Data Entry.md",
+    "VIS/Understanding Quantified-Selfers’ Practices in Collecting and Exploring Personal Data.md",
+    "HCI/Understanding Self-Reflection - How people reflect on Personal Data Through Visual Data Exploration.md",
+    "MobileHealth/A Stage-Based Model of Personal Informatics Systems.md",
+    "MobileHealth/A Lived Informatics Model of Personal Informatics.md",
     "Paper.md",
-    "paperTemplates.md",
-    "VIS/Learning Vis Tools - Teaching Data Visualization Tutorials.md",
-    "VIS/Semantic Resizing of Charts Through Generalization - A Case Study with Line Charts.md",
-    "HCI/Exploring Context-Aware Mental Health Self-Tracking Using Multimodal Smart Speakers in Home Environments.md",
-    "for/Understanding the Interactions between Text and Visualizations.md",
-    "VIS/Reaching Broader Audiences with Data Visualization.md",
-    "Personal.md",
-    "VIS/Databiting - Lightweight Transient, and Insight Rich Exploration of Personal Data.md",
-    "HCI/Data@Hand - Fostering Visual Exploration of Personal Data on Smartphones Leveraging Speech and Touch Interaction.md",
-    "for/NRF/Skimming.md",
-    "HCI/Identify, Adapt, Persist The Journey of Blind Individuals with Personal Health Technologies.md",
-    "VIS/When Refreshable Tactile Displays Meet Conversational Agents - Investigating Accessible Data Presentation and Analysis with Touch and Speech.md",
-    "VIS/Visualizing Ranges over Time on Mobile Phones- A Task-Based Crowdsourced Evaluation.md",
-    "for/Responsive Visualization Design for Mobile Devices.md",
-    "MOB VIS.md",
-    "HCI/CHI20/Answering Questions about Charts and Generating Visual Explanations.md",
-    "HCI/ChaCha Leveraging Large Language Models to PromptChildren to Share Their Emotions about Personal Events.md",
-    "HCI/Building User-oriented Personalized Machine Translator based on User-Generated Textual Content.md",
-    "HCI/Building a Personalized Model for Social Media Textual Content Censorship.md",
+    "MobileHealth/Task-Based Effectiveness of Basic Visualizations.md",
+    "VIS/VIS.md",
+    "VIS/Voyager Exploratory Analysis via Faceted Browsing of Visualization Recommendations.md",
+    "MobileHealth/A large scale analysis of mHealth app user reviews.md",
+    "MobileHealth/Characterizing Visualization Insights from Quantified Selfers' Personal Data Presentations.md",
+    "MobileHealth/Toward a Unified mHealth Platform- A Survey of Current User Challenges and Expectations.md",
+    "image/스크린샷 2024-12-23 오후 6.05.22.png",
+    "MobileHealth",
+    "VIS/VIS22",
+    "image/Data-task-visualization image.png",
+    "HCI/OzCHI23",
+    "VIS/VIS07",
     "무제 파일 1.canvas",
     "for/NRF",
     "VIS/VIS15",
@@ -243,10 +265,6 @@
     "image",
     "image/what's the Difference?.png",
     "HCI/CHI18",
-    "VIS/VIS23",
-    "Others",
-    "HCI/CHI20",
-    "HCI/CHI24",
     "무제 파일.canvas",
     "HCI/Untitled.canvas"
   ]

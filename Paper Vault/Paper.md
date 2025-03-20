@@ -7,7 +7,7 @@ table Without ID
 	시작일 as "Date",
 	choice(진행상태=false, "X", "O") as "Status",
 	tags as "tags"
-from "HCI" or "VIS"
+from "HCI" or "VIS" or "MobileHealth"
 sort file.ctime desc
 ```
 

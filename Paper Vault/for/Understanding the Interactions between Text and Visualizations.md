@@ -5,6 +5,7 @@ tags:
   - Visualization
   - mobile
 sticker: emoji//1f393
+Author: Dae hyun Kim
 ---
 - Intergration of information from Text to Visualizations
 - Identifying references between Visualizations and Text

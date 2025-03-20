@@ -2,6 +2,5 @@
   "promptDelete": false,
   "spellcheck": false,
   "readableLineLength": true,
-  "attachmentFolderPath": "image",
-  "showRibbon": true
+  "attachmentFolderPath": "image"
 }

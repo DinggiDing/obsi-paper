@@ -4,8 +4,8 @@
 tags:
   - Visualization
   - VisualizationDashboard
-  - Recommendations
   - DirectManipulation
+  - VisualizationRecommendation
 sticker: lucide//settings-2
 ---
 - We present Medley, a mixed-initiative interface that assists in dashboard composition by recommending dashboard collections that map to speific analyical intents.

@@ -9,5 +9,6 @@
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "obsi"
-  ]
+  ],
+  "showRibbon": true
 }

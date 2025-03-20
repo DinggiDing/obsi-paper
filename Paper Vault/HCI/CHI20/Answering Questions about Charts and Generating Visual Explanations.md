@@ -6,6 +6,7 @@ tags:
   - Visualization
   - Explainable-AI
 sticker: lucide//settings-2
+Author: Dae hyun Kim
 ---
 - They developed an automatic chart question answering pipeline that generates visual explanations describing how the answer was obtained
 

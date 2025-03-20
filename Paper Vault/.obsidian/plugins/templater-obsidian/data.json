@@ -21,6 +21,10 @@
     {
       "folder": "VIS",
       "template": "paperTemplates.md"
+    },
+    {
+      "folder": "MobileHealth",
+      "template": "paperTemplates.md"
     }
   ],
   "syntax_highlighting": true,

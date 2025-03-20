@@ -5,6 +5,8 @@ tags:
   - HCI
   - Visualization
   - Ubiquitous
+  - Personal-Informatics
+  - VisualzationTool
 sticker: emoji//1f469-200d-1f3eb
 ---
 **multimodal Fusion**
@@ -20,6 +22,8 @@ sticker: emoji//1f469-200d-1f3eb
 - **Data@Hand 앱의 설계 및 구현**: 이 앱은 스마트폰에서 개인 데이터를 탐색할 수 있도록 음성과 터치 입력 모달리티의 시너지를 활용한 최초의 모바일 애플리케이션입니다. 이 앱을 통해 사용자는 Fitbit 데이터에 접근하여 iOS와 Android에서 동작하며, Apple Speech Framework와 Microsoft Cognitive Speech API를 사용해 음성 인식을 지원합니다.
 - **탐색적 연구 수행**: 13명의 장기 Fitbit 사용자와 함께 Data@Hand를 사용한 탐색적 연구를 진행하여, 사람들이 스마트폰에서 음성과 터치 상호작용을 사용해 개인 데이터를 탐색하는 방식을 이해했습니다. 이 연구를 통해 사용자들이 상호작용 선택에 대해 어떤 상황에서 어떤 이유로 선택했는지를 파악했습니다.
 - **디자인 시사점 및 기회 제시**: 멀티모달 상호작용을 통한 모바일 데이터 시각화를 더 잘 지원하기 위한 디자인 시사점과 기회를 제시합니다. 사용자 관찰과 피드백을 반영하여, 개인 데이터 탐색을 보다 효과적으로 지원할 수 있는 설계 방향을 논의합니다.
+
+- [[Think-Aloud]]
 
 # 5C
 
